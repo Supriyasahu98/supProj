@@ -1,1 +1,2 @@
-puts "good"
+puts "good afternoon "
+putd "hello kitty"
